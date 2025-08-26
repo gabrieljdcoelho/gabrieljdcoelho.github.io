@@ -1,0 +1,6 @@
+img[src="/foto.jpg"] {
+  width: 150px;
+  border-radius: 0%;
+  display: block;
+  margin: 0 auto; /* centraliza */
+}
