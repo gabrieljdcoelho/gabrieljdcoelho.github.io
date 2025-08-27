@@ -9,11 +9,11 @@
     <lastBuildDate>Tue, 26 Aug 2025 10:00:00 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First Post</title>
+      <title>Hello, world</title>
       <link>http://localhost:1313/posts/first_post/</link>
       <pubDate>Tue, 26 Aug 2025 10:00:00 +0100</pubDate>
       <guid>http://localhost:1313/posts/first_post/</guid>
-      <description></description>
+      <description>Well, I wrapped up my tasks at work today and decided to write a few initial thoughts here on this blog.&#xA;I have some ideas about what I’d like this space to become. Calling it a “blog” might be a bit bold on my part, since I don’t really expect to have any audience at all. What I want is simply a place to write down what I’m learning—not only related to work, but also about my adventures in the mountains or while traveling.</description>
     </item>
     <item>
       <title>About</title>
