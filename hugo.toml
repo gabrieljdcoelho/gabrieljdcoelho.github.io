@@ -36,8 +36,7 @@ weight = 4
 
 [params]
   customCSS = ["css/custom.css"]
-  mode = "toggle"
-
+  
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
