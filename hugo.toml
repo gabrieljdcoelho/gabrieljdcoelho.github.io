@@ -3,6 +3,16 @@ languageCode = 'en-us'
 title = 'Gabriel Coelho'
 theme="archie"
 
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/gabrieljdcoelho"
+
+[[params.social]]
+name = "Linkedin"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/gabrielcoelhoo/"
+
 [[menu.main]]
 name = "About"
 url = "/about"
