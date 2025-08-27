@@ -21,12 +21,18 @@ weight = 1
 [[menu.main]]
 name = "All posts"
 url = "/posts"
-weight = 1
+weight = 2
 
 [[menu.main]]
 name = "Publications"
 url = "/publications"
-weight = 1
+weight = 3
+
+[[menu.main]]
+name = "CV"
+url = "/cv.pdf"
+weight = 4
+
 
 [params]
   customCSS = ["css/custom.css"]
